@@ -1,0 +1,15 @@
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\bin\Debug\net6.0\BaseDatosFactory.exe
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\bin\Debug\net6.0\BaseDatosFactory.deps.json
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\bin\Debug\net6.0\BaseDatosFactory.runtimeconfig.json
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\bin\Debug\net6.0\BaseDatosFactory.dll
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\bin\Debug\net6.0\BaseDatosFactory.pdb
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.csproj.AssemblyReference.cache
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.AssemblyInfoInputs.cache
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.AssemblyInfo.cs
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.csproj.CoreCompileInputs.cache
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.dll
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\refint\BaseDatosFactory.dll
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.pdb
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\BaseDatosFactory.genruntimeconfig.cache
+C:\Users\ripia\source\repos\BaseDatosFactory\BaseDatosFactory\obj\Debug\net6.0\ref\BaseDatosFactory.dll
